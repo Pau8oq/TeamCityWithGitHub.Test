@@ -1,10 +1,4 @@
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\CoverletSourceRootsMapping
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\testhost.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.deps.json
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.runtimeconfig.json
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\appsettings.Development.json
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\appsettings.json
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.exe
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\testhost.exe
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\MvcTestingAppManifest.json
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -317,11 +311,9 @@ D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\refs\System.Xml.XP
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\refs\WindowsBase.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -332,9 +324,6 @@ D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualSt
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -402,7 +391,6 @@ D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\zh-Hant\Microsoft.
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.dll
-D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.pdb
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\TeamCityWithGitHub.Test.csproj.AssemblyReference.cache
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\MvcTestingAppManifest.json
@@ -416,3 +404,16 @@ D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\refint\TeamCityWit
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\TeamCityWithGitHub.Test.pdb
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\TeamCityWithGitHub.Test.genruntimeconfig.cache
 D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\ref\TeamCityWithGitHub.Test.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\obj\Debug\net8.0\TeamCityWithGitHub.Test.sourcelink.json
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\CoverletSourceRootsMapping
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.deps.json
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.runtimeconfig.json
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\appsettings.json
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.exe
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TeamCity\TeamCityWithGitHub.Test\bin\Debug\net8.0\TeamCityWithGitHub.pdb

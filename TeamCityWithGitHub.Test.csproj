@@ -17,7 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TeamCityWithGitHub\TeamCityWithGitHub.csproj" />
+    <ProjectReference Include="..\TeamCityWithGitHub\TeamCityWithGitHub.csproj">
+      <Private>True</Private>
+      <CopyLocalSatelliteAssemblies>True</CopyLocalSatelliteAssemblies>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>
