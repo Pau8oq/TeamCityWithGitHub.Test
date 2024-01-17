@@ -22,7 +22,7 @@ namespace TeamCityWithGitHub.Test
         [TestMethod]
         public void Test_Failure()
         {
-            var str = "not hello
+            var str = "not hello";
             Assert.AreEqual(str, "hello");
         }
     }
