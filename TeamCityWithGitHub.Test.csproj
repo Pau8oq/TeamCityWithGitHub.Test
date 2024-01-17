@@ -16,11 +16,4 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TeamCityWithGitHub\TeamCityWithGitHub.csproj">
-      <Private>True</Private>
-      <CopyLocalSatelliteAssemblies>True</CopyLocalSatelliteAssemblies>
-    </ProjectReference>
-  </ItemGroup>
-
 </Project>
